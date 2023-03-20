@@ -1,3 +1,4 @@
-- I am @SLBG128
-- Teach me any skills of computer if you want.
-- Among Us 
+<pre>
+root@kali:~$ whoami 
+SLBG128
+</pre>
