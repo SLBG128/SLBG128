@@ -1,4 +1,4 @@
 <pre>
-root@kali:~$ whoami 
+root@github:~$ whoami 
 SLBG128
 </pre>
